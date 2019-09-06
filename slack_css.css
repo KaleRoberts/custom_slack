@@ -1168,7 +1168,7 @@ color:white !important;
     color: #ffb088 !important;
 }
 .c-message__sender{
-color:#a4d677 !important
+color:#00c0ff !important
 }
     .c-dialog__footer .c-button {
         background-color: #2ead5c;
@@ -1179,7 +1179,7 @@ color:#a4d677 !important
         }
      
          a.c-message__sender_link{
-            color: #a4d677 !important ;
+            color: #00c0ff !important ;
        }
         .ql-editor[aria-label]{
             color: white !important;
